@@ -1,0 +1,100 @@
+.ssl{
+	padding-top:70px;
+	padding-bottom:20px;
+}
+.here{
+	position:absolute;
+	left:100px;
+	top:30px;
+}
+body{
+	background-color:lightgray;
+}
+.main{
+	background-color:white;
+}
+.two{
+	padding-top:20px;
+	
+}
+.three{background-color:white;
+	padding-top:20px;
+	padding-bottom:30px;
+	
+}
+.four{background-color:white;
+padding-top:30px;
+	padding-bottom:50px;
+	
+	
+}
+.portfolio-overlay{
+	position:absolute;
+	left:120px;
+	top:160px;
+	color:black;
+	display:block;
+}
+.portfolio-item:hover img{
+	display:none;
+	
+}
+.hi{
+	background-color:white;
+padding-top:30px;
+	padding-bottom:30px;
+	font-size:18px;
+}
+.number{
+	padding-top:10px;
+	padding-bottom:50px;
+}
+.first{width:150px;
+height:140px;
+border-radius:50%;
+background-image:url("images/icon.png");
+background-size:100% 100%;
+margin-left:100px;
+
+}
+.second{width:150px;
+height:140px;
+border-radius:50%;
+background-image:url("images/cam.jpg");
+background-size:100% 100%;
+
+}
+.third{width:150px;
+height:140px;
+border-radius:50%;
+background-image:url("images/you3.jpg");
+background-size:100% 100%;
+
+}
+.rrr{
+background-color:white;
+	}
+.img{
+	
+	width:490px;
+height:550px;
+background-image:url("images/cam.jpg");
+background-size:100% 100%;
+background-position:absolute;
+
+	
+}
+.last{
+	padding-top:40px;
+	padding-bottom:30px;
+}
+.last ul{list-style-type:none;
+}
+.last ul a{
+color:black;
+}
+.link{
+	padding-left:24px;
+}
+.foot{padding-top:10px;
+	padding-bottom:30px;}
